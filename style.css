@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.text{
+text-align: center;
+}
+
+.navigation{
+padding-left: 10px;
+padding-right: 10px;
+background-color: pink;
+}
+
+.image_font{
+font-size: small;
+}
+
+#featured-property{
+  width: 800px;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 5em;
+}
